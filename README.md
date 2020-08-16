@@ -27,17 +27,17 @@ However, his trainer told him that what he did is not Object Oriented programmin
 - Try to articulate problems with Shivam's OOP solution. (Write it somewhere and share it with your trainer)
 - Fork the project and fix the design related problem with Shivam's OOP solution. Share that with your trainer too.
 
-Articulation
+**Articulation**
 
 Shivam forgot one of the pillar of OO - Encapsulation. He created DistanceAndDirectionCalculator.
 He created Point class only for initialisation and getting and setting variables.
 
-Solution
+**Solution**
 
 Removed Getters and Setters.
 Added getDistanceFrom and getDirectionFrom methods in Point class itself for Distance and Direction calcuation.
 
-**---------------
+**---------------**
 
 Are the repetition of coordinate values really necessary in the method where we calcuated Distance and direction?
 We can do it other way too maybe like creating a function which will find difference in coordinates.
