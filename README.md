@@ -37,7 +37,7 @@ Solution
 Removed Getters and Setters.
 Added getDistanceFrom and getDirectionFrom methods in Point class itself for Distance and Direction calcuation.
 
-Had a doubt
+**---------------
 
 Are the repetition of coordinate values really necessary in the method where we calcuated Distance and direction?
 We can do it other way too maybe like creating a function which will find difference in coordinates.
