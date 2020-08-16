@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.procedural.DistanceAndDirectionCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-08-16T05:49:18" hostname="Nehas-MacBook-Pro.local" time="0.014">
+<testsuite name="org.procedural.DistanceAndDirectionCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-08-16T05:52:06" hostname="Nehas-MacBook-Pro.local" time="0.013">
   <properties/>
-  <testcase name="twoPointsWithSameXAndYCoordinatesShouldHaveADistanceOfZero()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.001"/>
-  <testcase name="distanceBetweenOriginAndPointsOnUnitCircleShouldBeOne()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.001"/>
-  <testcase name="originAndPointOnNegativeXAxisShouldBePiRadiansAway()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.0"/>
+  <testcase name="twoPointsWithSameXAndYCoordinatesShouldHaveADistanceOfZero()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.003"/>
+  <testcase name="distanceBetweenOriginAndPointsOnUnitCircleShouldBeOne()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.002"/>
+  <testcase name="originAndPointOnNegativeXAxisShouldBePiRadiansAway()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.001"/>
   <testcase name="originAndPointOnPositiveXAxisShouldBeZeroRadiansAway()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.0"/>
   <testcase name="originAndPointOnYAxisShouldBeHalfPiRadiansAway()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.001"/>
-  <testcase name="distanceBetweenTwoOppositePointsOnUnitCircleShouldBeTwo()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.001"/>
+  <testcase name="distanceBetweenTwoOppositePointsOnUnitCircleShouldBeTwo()" classname="org.procedural.DistanceAndDirectionCalculatorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

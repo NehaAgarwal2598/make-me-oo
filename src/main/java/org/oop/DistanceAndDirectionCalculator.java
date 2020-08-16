@@ -4,11 +4,11 @@ public class DistanceAndDirectionCalculator {
 
     public static double distance(Point from, Point to) {
 
-        return from.getDistanceFrom(to);
+        return to.getDistanceFrom(from);
     }
 
     public static double direction(Point from, Point to) {
 
-        return to.getDirectionFrom(from);
+        return from.getDirectionFrom(to);
     }
 }
